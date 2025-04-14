@@ -10,7 +10,7 @@ def isPrime(number):
             return False
     return True
 
-# ✅ CORREGIDO
+
 def isPrime2(number):
     if number <= 1:
         return False
